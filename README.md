@@ -14,9 +14,8 @@ Software Developer
 - Python
 - Java
 
-
 ## Find Me
 
 - GitHub: [yarkhan706](https://github.com/yarkhan706)
 - Instagram: [@yarkhan706](https://www.instagram.com/yarkhan706)
-
+- Gmail: asfandyarkhan.dev@gmail.com
